@@ -2,31 +2,31 @@
 
 @font-face {
   font-family: Rale-Reg;
-  src: url(/fonts/Raleway/Raleway-Regular.ttf);
+  src: url(../fonts/Raleway/Raleway-Regular.ttf);
 }
 @font-face {
   font-family: Rale-Med;
-  src: url(/fonts/Raleway/Raleway-Medium.ttf);
+  src: url(../fonts/Raleway/Raleway-Medium.ttf);
 }
 @font-face {
   font-family: Rale-Bold;
-  src: url(/fonts/Raleway/Raleway-Bold.ttf);
+  src: url(../fonts/Raleway/Raleway-Bold.ttf);
 }
 @font-face {
   font-family: Mont-Reg;
-  src: url(/fonts/Montserrat/Montserrat-Regular.ttf);
+  src: url(../fonts/Montserrat/Montserrat-Regular.ttf);
 }
 @font-face {
   font-family: Mont-Light;
-  src: url(/fonts/Montserrat/Montserrat-Light.ttf);
+  src: url(../fonts/Montserrat/Montserrat-Light.ttf);
 }
 @font-face {
   font-family: Mont-Bold;
-  src: url(/fonts/Montserrat/Montserrat-Bold.ttf);
+  src: url(../fonts/Montserrat/Montserrat-Bold.ttf);
 }
 /* background image */
 .hero-img {
-  background-image: url(/images/background.jpg);
+  background-image: url(../images/background.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 70vh;
